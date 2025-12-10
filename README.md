@@ -1,11 +1,11 @@
 Learnigns:
-  1. Git ignore file for current dir:
-     ./*
-     .*
-     !/tf-pre-config/**/*
-     !/main.tf
-     !/remote.hcl
-     !/variables_file.tfvars
-  3. Git ignore file in sub dirs:
-     *
-     !main.tf
+  1. Git ignore file for current dir:<br>
+     ./*<br>
+     .*<br>
+     !/tf-pre-config/**/*<br>
+     !/main.tf<br>
+     !/remote.hcl<br>
+     !/variables_file.tfvars<br>
+  3. Git ignore file in sub dirs:<br>
+     *<br>
+     !main.tf<br>
