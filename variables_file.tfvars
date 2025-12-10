@@ -1,0 +1,7 @@
+ami_id = "ami-03f3a22c5f8f5ef58"
+instance_type = "t2.micro"
+key_pair_name = "shivakumar_ansible_demo"
+vpc_id = "vpc-09400b4d750c9e563"
+subnet_id = "subnet-0c77a2e30d7845933"
+security_group_id = "sg-06d009efe827b3fec"
+env = "tfAssignment"
